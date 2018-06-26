@@ -50,4 +50,9 @@ public class Book {
     public static Book createHarryPotterTwo() {
         return new Book("H1",8, 2);
     }
+
+
+    public double getPrice() {
+        return price;
+    }
 }
