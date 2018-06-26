@@ -1,4 +1,4 @@
 package com.example.demo;
 
-public class InputCantZeroValueException {
+public class InputCantZeroValueException extends RuntimeException {
 }

@@ -1,4 +1,4 @@
 package com.example.demo;
 
-public class InternalSystemException {
+public class InternalSystemException extends Exception {
 }
